@@ -1,0 +1,11 @@
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WinFormsExample\bin\Debug\EDSDKLib.dll
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WinFormsExample\bin\Debug\EDSDKLib.pdb
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Debug\WinFormsExample.csprojAssemblyReference.cache
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Debug\WinFormsExample.MainForm.resources
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Debug\WinFormsExample.csproj.GenerateResource.cache
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Debug\WinFormsExample.csproj.CoreCompileInputs.cache
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Debug\WinFormsExample.csproj.CopyComplete
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WinFormsExample\bin\Debug\STM32Canon.exe
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WinFormsExample\bin\Debug\STM32Canon.pdb
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Debug\STM32Canon.exe
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Debug\STM32Canon.pdb

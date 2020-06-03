@@ -1,0 +1,15 @@
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WpfExample\bin\Debug\WpfExample.exe
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WpfExample\bin\Debug\WpfExample.pdb
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WpfExample\bin\Debug\EDSDKLib.dll
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WpfExample\bin\Debug\EDSDKLib.pdb
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WpfExample\obj\x86\Debug\WpfExample.csprojAssemblyReference.cache
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WpfExample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WpfExample\obj\x86\Debug\App.g.cs
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WpfExample\obj\x86\Debug\WpfExample_MarkupCompile.cache
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WpfExample\obj\x86\Debug\WpfExample_MarkupCompile.lref
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WpfExample\obj\x86\Debug\MainWindow.baml
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WpfExample\obj\x86\Debug\WpfExample.g.resources
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WpfExample\obj\x86\Debug\WpfExample.csproj.CoreCompileInputs.cache
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WpfExample\obj\x86\Debug\WpfExample.csproj.CopyComplete
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WpfExample\obj\x86\Debug\WpfExample.exe
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\WpfExample\obj\x86\Debug\WpfExample.pdb

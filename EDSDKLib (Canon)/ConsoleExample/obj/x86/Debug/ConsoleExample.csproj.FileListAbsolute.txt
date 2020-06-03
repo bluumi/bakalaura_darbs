@@ -1,0 +1,9 @@
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\ConsoleExample\bin\Debug\ConsoleExample.exe
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\ConsoleExample\bin\Debug\ConsoleExample.pdb
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\ConsoleExample\bin\Debug\EDSDKLib.dll
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\ConsoleExample\bin\Debug\EDSDKLib.pdb
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\ConsoleExample\obj\x86\Debug\ConsoleExample.csprojAssemblyReference.cache
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\ConsoleExample\obj\x86\Debug\ConsoleExample.csproj.CoreCompileInputs.cache
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\ConsoleExample\obj\x86\Debug\ConsoleExample.csproj.CopyComplete
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\ConsoleExample\obj\x86\Debug\ConsoleExample.exe
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\ConsoleExample\obj\x86\Debug\ConsoleExample.pdb

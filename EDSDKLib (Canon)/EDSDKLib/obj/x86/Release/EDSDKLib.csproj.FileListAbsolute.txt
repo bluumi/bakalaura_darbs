@@ -1,0 +1,7 @@
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\EDSDKLib\bin\Release\EDSDKLib.xml
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\EDSDKLib\bin\Release\EDSDKLib.dll
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\EDSDKLib\bin\Release\EDSDKLib.pdb
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\EDSDKLib\obj\x86\Release\EDSDKLib.csprojAssemblyReference.cache
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\EDSDKLib\obj\x86\Release\EDSDKLib.csproj.CoreCompileInputs.cache
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\EDSDKLib\obj\x86\Release\EDSDKLib.dll
+C:\Users\Inguss Pumpurs\Desktop\Random\EDSDKLib-1.1.2\EDSDKLib\obj\x86\Release\EDSDKLib.pdb
